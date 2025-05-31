@@ -1,0 +1,11 @@
+<head>
+  <!-- AOS CSS -->
+  <link rel="stylesheet" href="aos/aos.css" />
+</head>
+<body>
+  <!-- Your content here -->
+
+  <!-- AOS JS -->
+  <script src="aos/aos.js"></script>
+  <script src="script.js"></script>
+</body>
