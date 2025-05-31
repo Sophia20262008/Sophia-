@@ -1,8 +1,0 @@
-portfolio/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── profile.jpg   (your image)
-│   └── project1.jpg  (sample project screenshot)
-└── aos/              (AOS Library for animations)
